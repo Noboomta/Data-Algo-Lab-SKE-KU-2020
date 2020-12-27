@@ -1,0 +1,3 @@
+C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/cmake-build-debug/CMakeFiles/elab.dir
+C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

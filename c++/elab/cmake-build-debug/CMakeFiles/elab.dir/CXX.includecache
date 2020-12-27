@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/Final/final63_necklaces.cpp
+iostream
+-
+queue
+C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/Final/queue
+bits/stdc++.h
+-
+
