@@ -21,7 +21,7 @@ int main(){
     int b = min(H2,B1);
     H2-=b; B1-=b;
 
-//    cout << allw << " " << allb << " " << a << " " << b << " H1->" << H1 << " H2->" << H2 << " B1->" << B1 << " B2->" << B2 << endl;
+    cout << allw << " " << allb << " " << a << " " << b << " H1->" << H1 << " H2->" << H2 << " B1->" << B1 << " B2->" << B2 << endl;
 
     while(same < allw+allb){
 //        cout << "start" << allw << " " << allb << " " << a << " " << b << " H1->" << H1 << " H2->" << H2 << " B1->" << B1 << " B2->" << B2 << endl;
