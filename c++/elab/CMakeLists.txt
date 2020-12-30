@@ -3,11 +3,11 @@ project(elab)
 
 set(CMAKE_CXX_STANDARD 14)
 #
-add_executable(elab
-        "cpe c++/robotB.cpp")
-#
 #add_executable(elab
-#        "Final/final63_necklaces.cpp")
+#        "cpe c++/robotB.cpp")
+#
+add_executable(elab
+        zooma1b.cpp)
 
 #add_executable(elab
 #        Broken_keyboard.cpp)

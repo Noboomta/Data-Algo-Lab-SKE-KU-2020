@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/cpe c++/robotB.cpp
+C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/zooma1b.cpp
 iostream
+-
+stdlib.h
 -
 

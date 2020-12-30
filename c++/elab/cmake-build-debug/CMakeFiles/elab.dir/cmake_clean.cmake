@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/elab.dir/cpe_c++/robotB.cpp.obj"
+  "CMakeFiles/elab.dir/zooma1b.cpp.obj"
   "elab.exe"
   "elab.exe.manifest"
   "elab.pdb"

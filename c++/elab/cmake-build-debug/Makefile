@@ -142,32 +142,32 @@ elab/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/build
 .PHONY : elab/fast
 
-cpe_c++/robotB.obj: cpe_c++/robotB.cpp.obj
+zooma1b.obj: zooma1b.cpp.obj
 
-.PHONY : cpe_c++/robotB.obj
+.PHONY : zooma1b.obj
 
 # target to build an object file
-cpe_c++/robotB.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/cpe_c++/robotB.cpp.obj
-.PHONY : cpe_c++/robotB.cpp.obj
+zooma1b.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/zooma1b.cpp.obj
+.PHONY : zooma1b.cpp.obj
 
-cpe_c++/robotB.i: cpe_c++/robotB.cpp.i
+zooma1b.i: zooma1b.cpp.i
 
-.PHONY : cpe_c++/robotB.i
+.PHONY : zooma1b.i
 
 # target to preprocess a source file
-cpe_c++/robotB.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/cpe_c++/robotB.cpp.i
-.PHONY : cpe_c++/robotB.cpp.i
+zooma1b.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/zooma1b.cpp.i
+.PHONY : zooma1b.cpp.i
 
-cpe_c++/robotB.s: cpe_c++/robotB.cpp.s
+zooma1b.s: zooma1b.cpp.s
 
-.PHONY : cpe_c++/robotB.s
+.PHONY : zooma1b.s
 
 # target to generate assembly for a file
-cpe_c++/robotB.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/cpe_c++/robotB.cpp.s
-.PHONY : cpe_c++/robotB.cpp.s
+zooma1b.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/zooma1b.cpp.s
+.PHONY : zooma1b.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... elab
-	@echo ... cpe_c++/robotB.obj
-	@echo ... cpe_c++/robotB.i
-	@echo ... cpe_c++/robotB.s
+	@echo ... zooma1b.obj
+	@echo ... zooma1b.i
+	@echo ... zooma1b.s
 .PHONY : help
 
 

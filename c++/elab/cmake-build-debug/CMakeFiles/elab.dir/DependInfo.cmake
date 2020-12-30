@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/cpe c++/robotB.cpp" "C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/cmake-build-debug/CMakeFiles/elab.dir/cpe_c++/robotB.cpp.obj"
+  "C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/zooma1b.cpp" "C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/cmake-build-debug/CMakeFiles/elab.dir/zooma1b.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

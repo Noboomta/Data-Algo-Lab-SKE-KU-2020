@@ -13,7 +13,6 @@ int main() {
     ios_base::sync_with_stdio(false); cin.tie(0);
     ios_base::sync_with_stdio(false); cout.tie(0);
     int n, m;
-//    int d, p;
     int id = 1;
     cin >> n >> m;
     Ball* now = new Ball(0, 0);
@@ -37,15 +36,6 @@ int main() {
         lst[id-1] = new_ball;
         new_ball->next_ball = lst[after]->next_ball;
         lst[after]->next_ball = new_ball;
-//        Ball *loop = head;
-//        while (loop != 0) {
-//            if (loop->id == after) {
-//                new_ball->next_ball = loop->next_ball;
-//                loop->next_ball = new_ball;
-//                break;
-//            }
-//            loop = loop->next_ball;
-//        }
     }
     while (head != 0) {
         cout << head->id << endl;
