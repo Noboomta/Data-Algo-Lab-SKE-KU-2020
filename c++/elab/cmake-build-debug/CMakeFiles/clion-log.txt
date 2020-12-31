@@ -1,11 +1,4 @@
 "C:\Program Files\JetBrains\CLion2 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\NoBoomTa\Desktop\Coding\Data-Algo-Lab1\c++\elab
-CMake Error at CMakeLists.txt:12 (add_executable):
-  add_executable cannot create target "elab" because another target with the
-  same name already exists.  The existing target is an executable created in
-  source directory
-  "C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab".  See
-  documentation for policy CMP0002 for more details.
-
-
--- Configuring incomplete, errors occurred!
-See also "C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/cmake-build-debug
