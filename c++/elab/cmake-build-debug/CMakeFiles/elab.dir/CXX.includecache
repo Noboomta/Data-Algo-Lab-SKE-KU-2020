@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/zooma1b.cpp
+C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/concount.cpp
 iostream
 -
-stdlib.h
+vector
+-
+queue
+-
+set
 -
 

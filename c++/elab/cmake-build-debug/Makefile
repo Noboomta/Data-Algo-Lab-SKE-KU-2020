@@ -142,32 +142,32 @@ elab/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/build
 .PHONY : elab/fast
 
-zooma1b.obj: zooma1b.cpp.obj
+concount.obj: concount.cpp.obj
 
-.PHONY : zooma1b.obj
+.PHONY : concount.obj
 
 # target to build an object file
-zooma1b.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/zooma1b.cpp.obj
-.PHONY : zooma1b.cpp.obj
+concount.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/concount.cpp.obj
+.PHONY : concount.cpp.obj
 
-zooma1b.i: zooma1b.cpp.i
+concount.i: concount.cpp.i
 
-.PHONY : zooma1b.i
+.PHONY : concount.i
 
 # target to preprocess a source file
-zooma1b.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/zooma1b.cpp.i
-.PHONY : zooma1b.cpp.i
+concount.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/concount.cpp.i
+.PHONY : concount.cpp.i
 
-zooma1b.s: zooma1b.cpp.s
+concount.s: concount.cpp.s
 
-.PHONY : zooma1b.s
+.PHONY : concount.s
 
 # target to generate assembly for a file
-zooma1b.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/zooma1b.cpp.s
-.PHONY : zooma1b.cpp.s
+concount.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\elab.dir\build.make CMakeFiles/elab.dir/concount.cpp.s
+.PHONY : concount.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... elab
-	@echo ... zooma1b.obj
-	@echo ... zooma1b.i
-	@echo ... zooma1b.s
+	@echo ... concount.obj
+	@echo ... concount.i
+	@echo ... concount.s
 .PHONY : help
 
 

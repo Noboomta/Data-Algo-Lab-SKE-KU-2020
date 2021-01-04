@@ -76,27 +76,27 @@ include CMakeFiles/elab.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/elab.dir/flags.make
 
-CMakeFiles/elab.dir/zooma1b.cpp.obj: CMakeFiles/elab.dir/flags.make
-CMakeFiles/elab.dir/zooma1b.cpp.obj: ../zooma1b.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\NoBoomTa\Desktop\Coding\Data-Algo-Lab1\c++\elab\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/elab.dir/zooma1b.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\elab.dir\zooma1b.cpp.obj -c C:\Users\NoBoomTa\Desktop\Coding\Data-Algo-Lab1\c++\elab\zooma1b.cpp
+CMakeFiles/elab.dir/concount.cpp.obj: CMakeFiles/elab.dir/flags.make
+CMakeFiles/elab.dir/concount.cpp.obj: ../concount.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\NoBoomTa\Desktop\Coding\Data-Algo-Lab1\c++\elab\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/elab.dir/concount.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\elab.dir\concount.cpp.obj -c C:\Users\NoBoomTa\Desktop\Coding\Data-Algo-Lab1\c++\elab\concount.cpp
 
-CMakeFiles/elab.dir/zooma1b.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/elab.dir/zooma1b.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\NoBoomTa\Desktop\Coding\Data-Algo-Lab1\c++\elab\zooma1b.cpp > CMakeFiles\elab.dir\zooma1b.cpp.i
+CMakeFiles/elab.dir/concount.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/elab.dir/concount.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\NoBoomTa\Desktop\Coding\Data-Algo-Lab1\c++\elab\concount.cpp > CMakeFiles\elab.dir\concount.cpp.i
 
-CMakeFiles/elab.dir/zooma1b.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/elab.dir/zooma1b.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\NoBoomTa\Desktop\Coding\Data-Algo-Lab1\c++\elab\zooma1b.cpp -o CMakeFiles\elab.dir\zooma1b.cpp.s
+CMakeFiles/elab.dir/concount.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/elab.dir/concount.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\NoBoomTa\Desktop\Coding\Data-Algo-Lab1\c++\elab\concount.cpp -o CMakeFiles\elab.dir\concount.cpp.s
 
 # Object files for target elab
 elab_OBJECTS = \
-"CMakeFiles/elab.dir/zooma1b.cpp.obj"
+"CMakeFiles/elab.dir/concount.cpp.obj"
 
 # External object files for target elab
 elab_EXTERNAL_OBJECTS =
 
-elab.exe: CMakeFiles/elab.dir/zooma1b.cpp.obj
+elab.exe: CMakeFiles/elab.dir/concount.cpp.obj
 elab.exe: CMakeFiles/elab.dir/build.make
 elab.exe: CMakeFiles/elab.dir/linklibs.rsp
 elab.exe: CMakeFiles/elab.dir/objects1.rsp

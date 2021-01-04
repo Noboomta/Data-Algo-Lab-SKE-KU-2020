@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD 14)
 #        "cpe c++/robotB.cpp")
 #
 add_executable(elab
-        zooma1b.cpp)
+        concount.cpp)
 
 #add_executable(elab
 #        Broken_keyboard.cpp)
