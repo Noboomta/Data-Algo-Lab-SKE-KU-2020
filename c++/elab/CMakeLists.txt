@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD 14)
 #        "cpe c++/robotB.cpp")
 #
 add_executable(elab
-        concount.cpp)
+        shortestpath_dijkstra.cpp)
 
 #add_executable(elab
 #        Broken_keyboard.cpp)

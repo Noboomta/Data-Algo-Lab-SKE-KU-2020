@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/concount.cpp
+C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/shortestpath_dijkstra.cpp
 iostream
--
-vector
--
-queue
--
-set
--
+C:/Users/NoBoomTa/Desktop/Coding/Data-Algo-Lab1/c++/elab/iostream
 

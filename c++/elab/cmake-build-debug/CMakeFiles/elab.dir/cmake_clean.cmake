@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/elab.dir/concount.cpp.obj"
+  "CMakeFiles/elab.dir/shortestpath_dijkstra.cpp.obj"
   "elab.exe"
   "elab.exe.manifest"
   "elab.pdb"
